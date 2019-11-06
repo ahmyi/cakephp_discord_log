@@ -11,12 +11,12 @@
     },
     "autoload": {
         "psr-4": {
-            "DiscordLog\\": "src/"
+            "Ahmyi\\DiscordLog\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "DiscordLog\\Test\\": "tests/",
+            "Ahmyi\\DiscordLog\\Test\\": "tests/",
             "Cake\\Test\\": "vendor/cakephp/cakephp/tests/"
         }
     }
